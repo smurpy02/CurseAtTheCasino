@@ -4,95 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "33bfa09b1c305f03",
+        "id": "e4b8cc0859bf3230",
         "type": "tabs",
         "children": [
           {
-            "id": "0edd02239d9ba206",
+            "id": "832c12ffeccd61f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/The Serpentfolk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Serpentfolk"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "4c3ca7d2261ec2c4",
+            "id": "9cbc5bfcadbc231b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse At The Casino.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curse At The Casino"
-            }
-          },
-          {
-            "id": "c1355e1384fb1de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The East Wing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The East Wing"
-            }
-          },
-          {
-            "id": "3ec352d2fe727d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Office.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Office"
-            }
-          },
-          {
-            "id": "c10c66d86a0cecf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc Info/Random Events.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Random Events"
-            }
-          },
-          {
-            "id": "8739fe5504201b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/The Necronomicon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Necronomicon"
+              "title": "To Do"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/The Necronomicon.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Necronomicon"
+              "title": "Backlinks for To Do"
             }
           },
           {
@@ -184,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/The Necronomicon.md",
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Necronomicon"
+              "title": "Outgoing links from To Do"
             }
           },
           {
@@ -227,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/The Necronomicon.md",
+                "file": "To Do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Necronomicon"
+              "title": "Outline of To Do"
             }
           },
           {
@@ -251,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,12 +205,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8739fe5504201b0f",
+  "active": "9cbc5bfcadbc231b",
   "lastOpenFiles": [
+    "To Do.md",
+    "Curse At The Casino.md",
+    "Creatures/The Serpentfolk.md",
+    "Locations/The Office.md",
     "Items/The Necronomicon.md",
     "Misc Info/The Snake Statue.md",
     "Characters/Harriet Lawson.md",
-    "Curse At The Casino.md",
     "Locations/The Penthouse.md",
     "Characters/Aleks Apophis.md",
     "Images",
@@ -296,9 +239,6 @@
     "Old Notes/Scenario Notes/List of Handouts.md",
     "Items/Antivenom.md",
     "Locations/The Casino Floor.md",
-    "Characters/Salazar.md",
-    "Locations/The Basement.md",
-    "Characters/Henry Broussard.md",
     "Images/The Creature.png",
     "Untitled.canvas"
   ]
