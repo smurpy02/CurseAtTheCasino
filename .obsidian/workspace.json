@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "70e04b4a3c6f9dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "33bfa09b1c305f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0edd02239d9ba206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/The Serpentfolk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Serpentfolk"
+            }
+          },
+          {
+            "id": "4c3ca7d2261ec2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse At The Casino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curse At The Casino"
+            }
+          },
+          {
+            "id": "c1355e1384fb1de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The East Wing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The East Wing"
+            }
+          },
+          {
+            "id": "3ec352d2fe727d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Office.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Office"
+            }
+          },
+          {
+            "id": "c10c66d86a0cecf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc Info/Random Events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Events"
+            }
+          },
+          {
+            "id": "8739fe5504201b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/The Necronomicon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Necronomicon"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b1b4d12d1de348f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3196666d3e06c087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c8712e38c907a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f92e4299e95cd82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "east",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eeaec3a2cce3bbb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d024ec1e2faf803f",
+    "type": "split",
+    "children": [
+      {
+        "id": "25889cd5289d059f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c9456e684ce976",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Items/The Necronomicon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Necronomicon"
+            }
+          },
+          {
+            "id": "377662274abff657",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Items/The Necronomicon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Necronomicon"
+            }
+          },
+          {
+            "id": "b69428053dea70d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0540fa77f273ddcf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6041809e3f6e8c6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Items/The Necronomicon.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Necronomicon"
+            }
+          },
+          {
+            "id": "62fed4c1be69608b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8739fe5504201b0f",
+  "lastOpenFiles": [
+    "Items/The Necronomicon.md",
+    "Misc Info/The Snake Statue.md",
+    "Characters/Harriet Lawson.md",
+    "Curse At The Casino.md",
+    "Locations/The Penthouse.md",
+    "Characters/Aleks Apophis.md",
+    "Images",
+    "Locations",
+    "Creatures",
+    "Misc Info",
+    "Spells",
+    "Characters",
+    "Creatures/Snakes.md",
+    "Spells/The Ritual.md",
+    "Old Notes/Call Yig.md",
+    "Misc Info/The Grand Reopening.md",
+    "Misc Info/The Curse of Yig.md",
+    "Items/Transformative Toxin.md",
+    "Characters/Charlie Monroe.md",
+    "Creatures/Snake Hybrids.md",
+    "Misc Info/Handouts.md",
+    "Old Notes/Scenario Notes/The Curse at the Casino V1.md",
+    "Old Notes/Scenario Notes/Scenario Events.md",
+    "Misc Info/Random Events.md",
+    "Locations/The East Wing.md",
+    "Items/The Ophidian Eye.md",
+    "Old Notes/Scenario Notes/List of Handouts.md",
+    "Items/Antivenom.md",
+    "Locations/The Casino Floor.md",
+    "Characters/Salazar.md",
+    "Locations/The Basement.md",
+    "Characters/Henry Broussard.md",
+    "Images/The Creature.png",
+    "Untitled.canvas"
+  ]
+}

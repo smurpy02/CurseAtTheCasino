@@ -1,0 +1,1 @@
+Costs 10 Pow

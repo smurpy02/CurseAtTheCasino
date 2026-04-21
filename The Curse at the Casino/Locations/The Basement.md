@@ -1,3 +1,0 @@
-	A damp and muggy room stuffed with leaky pipes, storage crates, and a broken roullete table. Hundreds of black vines clutch the floor and bottom of the walls, layered thickly like barbed wire. Upon the floor, a handful of brown snakes weave between the tangling vines. In the far corner, the vines converge and wrap around a spherical red light.
-
-The red light is [[The Ophidian Eye]]. Aleks put it here after discovering its true purpose in [[The Necronomicon]].

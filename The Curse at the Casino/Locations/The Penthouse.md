@@ -1,2 +1,0 @@
-A ritual to [[Call Yig]] is being performed here.
-1D6 + X guests (where X is the number of hours that have passed since the session began) have been taken here. They are restrained whilst 3 degenerate [[The Serpentfolk|Serpentfolk]] chant the ritual
