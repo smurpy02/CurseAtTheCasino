@@ -3,7 +3,12 @@
 > [[Aleks Apophis]]
 > [[Father Yig]]
 > [[Salazar]]
+> [[Apep]]
 > [[Charlie Monroe]]
+> [[Henry Broussard]]
+> [[Amelia Chester]]
+> [[Jack Feldman]]
+> [[Harriet Lawson]]
 
 > [!EXAMPLE] LOCATIONS
 > [[The Kali Tychi Casino and Hotel]]
@@ -31,3 +36,9 @@ Apep/Yig confronts Aleks before beginning the ritual himself
 
 Aleks wants to end the curse by... using his knowledge from the necronomicon
 The NECRONOMICON outlines a ritual to banish Yig
+
+WHAT IS THE RITUAL DOING
+Calling Yig
+Calling a Cthonian
+Creating a mist that prevents people from leaving
+Calling forth all the snakes in the hills

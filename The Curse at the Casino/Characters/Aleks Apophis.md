@@ -8,7 +8,7 @@ In 1911, Aleks was visited by [[Father Yig]], who offered him great power in ret
 
 In 1924, Aleks acquires a copy of [[The Necronomicon]]. He learns to create [[Elder Sign | Elder Signs]] and places one on the entrance to his office so Yig and his followers can't enter.
 
-In 1934, Aleks decides to reopen the casino, despite knowing it breaks his deal with Yig. However, he has not seen Yig since they met in 1911. He uses the staff and stone to force [[The Serpentfolk]] to act as staff.
+In 1934, Aleks decides to reopen the casino, despite knowing it breaks his deal with Yig. However, he has not seen Yig since they met in 1911. He uses the staff and stone to convince [[The Serpentfolk]] to act as staff.
 
 ### First Meeting
 Aleks tends to move between the bar and game room.

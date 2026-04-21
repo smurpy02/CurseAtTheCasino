@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Aleks Apophis.md",
+                "file": "Locations/The Office.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aleks Apophis"
+              "title": "The Office"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Basement.md",
+                "file": "Call Yig.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Basement"
+              "title": "Call Yig"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenario Notes/The Grand Reopening.md",
+                "file": "Snakes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Grand Reopening"
+              "title": "Snakes"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Penthouse.md",
+                "file": "Scenario Notes/The Curse at the Casino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Penthouse"
+              "title": "The Curse at the Casino"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "staff of yig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -265,34 +265,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "096d75c87148edf2",
+  "active": "aef9aa3251100e89",
   "lastOpenFiles": [
-    "Jack Feldman.md",
-    "Henry Broussard.md",
-    "Amelia Chester.md",
-    "Scenario Notes/The Curse at the Casino.md",
-    "Locations/The Penthouse.md",
-    "Locations/The First Floor.md",
-    "The Serpentfolk.md",
-    "Antivenom.md",
-    "Breaking the Curse.md",
-    "The Necronomicon.md",
-    "Characters/Aleks Apophis.md",
-    "Characters/Henry Broussard.md",
-    "Characters/Father Yig.md",
-    "Scenario Notes/Scenario Events.md",
-    "Items/The Serpent's Stone.md",
-    "Investigation.md",
     "Scenario Notes/The Grand Reopening.md",
+    "Snakes.md",
+    "Scenario Notes/The Curse at the Casino.md",
     "Locations/The Kali Tychi Casino and Hotel.md",
+    "Locations/The Office.md",
+    "Locations/The Penthouse.md",
+    "Characters/Apep.md",
+    "Call Yig.md",
     "Characters/Salazar.md",
-    "The Curse of Yig.md",
-    "Characters/Charlie Monroe.md",
+    "Items/The Ophidian Eye.md",
     "Locations/The Basement.md",
-    "Locations/The Pool.md",
-    "Scenario Notes/Finding the Staff.md",
-    "Scenario Notes/Exploring The Temple.md",
+    "Items/Staff of Yig.md",
+    "Scenario Notes/Scenario Events.md",
+    "Characters/Aleks Apophis.md",
+    "Characters/Harriet Lawson.md",
+    "Scenario Notes/The Curse of Yig.md",
+    "Characters/Father Yig.md",
+    "Items/The Serpent's Stone.md",
+    "Items/Domination Serum.md",
+    "Items/Black Lotus Powder.md",
+    "Characters/Charlie Monroe.md",
+    "The Serpentfolk.md",
+    "Characters/Jack Feldman.md",
+    "Characters/Henry Broussard.md",
     "Characters/Amelia Chester.md",
+    "Locations/The First Floor.md",
     "Scenario Notes",
     "Locations",
     "Items",

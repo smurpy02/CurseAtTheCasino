@@ -36,3 +36,6 @@ A snake erupts from a nearby guest's head, killing them
 A snake crawls out of your own mouth, before moving as though to get behind your eye
 A swarm of snakes wrap around your limbs, ready to pull you apart or suffocate you, whichever comes first
 Other guests or staff (possibly serpentfolk in disguise) appear as snake hybrids
+## Snake Attacks
+Groups of venomous or constrictor snakes dwell in the halls of the casino
+The snakes ignore players unless they are caught directly interfering

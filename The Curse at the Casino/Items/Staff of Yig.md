@@ -1,4 +1,6 @@
 A wooden quarterstaff, with a snake's head carved into the top, and a demon's head on the bottom.
+
+Can be found in [[The Penthouse]] where Aleks left it before the grand reopening
 ## Passive Effects
 The wielder is immune to the transformative effects of [[The Curse of Yig]]
 Snakes and serpent creatures are unable to harm the wielder. This includes Yig
