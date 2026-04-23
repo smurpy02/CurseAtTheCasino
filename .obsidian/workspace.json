@@ -11,16 +11,6 @@
             "id": "832c12ffeccd61f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9cbc5bfcadbc231b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "To Do.md",
@@ -30,9 +20,32 @@
               "icon": "lucide-file",
               "title": "To Do"
             }
+          },
+          {
+            "id": "9cbc5bfcadbc231b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc Info/Scripted Events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scripted Events"
+            }
+          },
+          {
+            "id": "5871156fa7a6a156",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "east",
+                "query": "exile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,40 +218,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cbc5bfcadbc231b",
+  "active": "832c12ffeccd61f1",
   "lastOpenFiles": [
-    "To Do.md",
     "Curse At The Casino.md",
-    "Creatures/The Serpentfolk.md",
-    "Locations/The Office.md",
-    "Items/The Necronomicon.md",
-    "Misc Info/The Snake Statue.md",
-    "Characters/Harriet Lawson.md",
+    "Poker Rules.md",
+    "To Do.md",
+    "Locations/The Ritual Site.md",
+    "Misc Info/Standard Timeline.md",
+    "Characters/Leon Goodrich.md",
+    "Misc Info/Scripted Events.md",
+    "Characters/Salazar.md",
+    "Locations/The East Wing.md",
     "Locations/The Penthouse.md",
+    "Locations/The Office.md",
+    "Locations/The Casino Floor.md",
+    "Items/The Ophidian Eye.md",
+    "Items/Staff of Yig.md",
+    "Spells/Create Mists of Rly'eh.md",
+    "Items/The Serpent's Stone.md",
+    "Locations/The Kali Tychi Casino and Hotel.md",
+    "Characters/Henry Broussard.md",
+    "Exile the Demon of Yig.md",
+    "Spells/The Ritual.md",
+    "Locations/The Basement.md",
     "Characters/Aleks Apophis.md",
+    "Misc Info/Handouts.md",
+    "Items/The Necronomicon.md",
+    "Creatures/The Serpentfolk.md",
+    "Misc Info/The Snake Statue.md",
     "Images",
     "Locations",
     "Creatures",
     "Misc Info",
     "Spells",
     "Characters",
-    "Creatures/Snakes.md",
-    "Spells/The Ritual.md",
-    "Old Notes/Call Yig.md",
-    "Misc Info/The Grand Reopening.md",
-    "Misc Info/The Curse of Yig.md",
-    "Items/Transformative Toxin.md",
-    "Characters/Charlie Monroe.md",
-    "Creatures/Snake Hybrids.md",
-    "Misc Info/Handouts.md",
-    "Old Notes/Scenario Notes/The Curse at the Casino V1.md",
-    "Old Notes/Scenario Notes/Scenario Events.md",
-    "Misc Info/Random Events.md",
-    "Locations/The East Wing.md",
-    "Items/The Ophidian Eye.md",
-    "Old Notes/Scenario Notes/List of Handouts.md",
-    "Items/Antivenom.md",
-    "Locations/The Casino Floor.md",
     "Images/The Creature.png",
     "Untitled.canvas"
   ]

@@ -12,14 +12,25 @@
 >[[Amelia Chess]] - Cultist of Shub Niggurath
 >[[Charlie Monroe]] - Actor and potential victim
 
+>[!EXAMPLE] Locations
+>[[The Kali Tychi Casino and Hotel]]
+>[[The Basement]]
+>[[The Casino Floor]]
+>[[The East Wing]]
+>[[The Office]]
+>[[The Penthouse]]
+>[[The Ritual Site]]
+
 >[!EXAMPLE] Events
 >[[Random Events]]
 >[[Scripted Events]]
+>[[Standard Timeline]]
 
->[!Note] Handouts
+>[!Note] Miscellaneous
 [[Handouts]]
+[[Poker Rules]]
 # The Plot
-Degenerate Serpentfolk are hijacking *The Grand Reopening* of The Kali Tychi Casino. They've sabotaged a fog machine with a toxin to transform guests into Serpent Hybrids. In some cases, when the serpentfolk notice guests transforming, they lure them upstairs and use concentrated doses to rapidly accelerate the process. Fully transformed hybrids become subservient to the serpentfolk.
+Degenerate Serpentfolk are hijacking *The Grand Reopening* of [[The Kali Tychi Casino and Hotel]]. They've sabotaged a fog machine with a toxin to transform guests into Serpent Hybrids. In some cases, when the serpentfolk notice guests transforming, they lure them upstairs and use concentrated doses to rapidly accelerate the process. Fully transformed hybrids become subservient to the serpentfolk.
 # The Hook
 Players are guests or staff at The Kali Tychi Casino during *The Grand Reopening*. They are also unfortunate victims of the transformative toxin.
 # No Escape
@@ -27,7 +38,7 @@ The car park for the casino is found a 5 minute walk from the entrance. Most gue
 
 Players who consider fleeing or calling the police come to a realisation. Their transformation is accelerating and will surely be complete by dawn. Regular medicine cannot cure this. If they leave the casino, or law enforcement becomes involved, they may lose any chance of finding a cure.
 # [[The Ritual]]
-The Serpentfolk are performing a ritual in the Penthouse. Hybrids have been forced to lie on a ritual circle, with The Ophidian Eye placed at the centre. When the ritual is complete, the hybrids will be turned into a malformed snake monster designed to wreak havoc on the casino.
+The Serpentfolk are performing a ritual on a nearby hill. Hybrids have been forced to lie on a ritual circle, with The Ophidian Eye placed at the centre. When the ritual is complete, the hybrids will be turned into a malformed snake monster designed to wreak havoc on the casino.
 
 If the players succeed in thwarting the ritual, the serpentfolk immediately become hostile. Having no reason to spare the players.
 # Mitigating Bad Luck

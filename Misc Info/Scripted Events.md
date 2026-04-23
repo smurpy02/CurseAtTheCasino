@@ -15,6 +15,7 @@ Immediate CON checks for Curse as characters are introduced
 
 During the opening, [[Random Events]] could occur
 ## Aleks' Intervention
+*OPTIONAL if the players are struggling to investigate*
 Upon realising what's going on, Aleks invites the group into [[The Office|his office]], protected by an [[Elder Sign]]
 
 [[Aleks Apophis]] tells the group *what he knows*

@@ -1,3 +1,4 @@
+*Found on Aleks' Person*
 A pale stone that can be held in the palm of one hand. A snake's face, with its mouth opened and fangs bared, is carved into one side. On the other is its twisting body and tail, wrapped tightly around a bone.
 ## Effects
 Whilst the stone is on your person, you gain great luck.

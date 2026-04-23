@@ -18,4 +18,4 @@ His [[The Deal Between Yig and Aleks|deal]] with Yig and its terms
 They perform research and worship [[Father Yig]]
 They were suspiciously eager to help with the opening, he's realising
 If they are transforming people, they may be performing [[The Ritual]] he read about in [[The Necronomicon]]
-The Ritual requires [[The Ophidian Eye]] which is hidden in a loose pipe in the basement
+The Ritual requires [[The Ophidian Eye]] which is hidden in the safe in the basement

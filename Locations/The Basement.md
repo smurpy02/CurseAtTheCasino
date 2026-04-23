@@ -1,6 +1,3 @@
-	A damp and muggy room stuffed with leaky pipes, storage crates, and a broken roullete table. Most of the crates appear to be filled with rotted furniture or old carpet.
+	At the bottom of the stairwell two short hallways lead in opposing directions. The first leads to a damp and muggy room stuffed with leaky pipes, storage crates, and a broken roullete table. Most of the crates appear to be filled with rotted furniture or old carpet. The second leads to a large vault door.
 
-Listen check for faint hum coming from a loose pipe
-Spot Hidden (with bonus die if directed) to find the red glow of [[The Ophidian Eye]]
-
-[[The Ophidian Eye]] sits hidden in a pipe here. Aleks put it here after discovering its true purpose in [[The Necronomicon]].
+The vault door's combination is 4823. This can be found on a piece of paper in the cash in office. Within the vault is [[The Ophidian Eye]], sat upon a shelf between cash boxes. The staff are told its an expensive jewel Aleks brought over from Greece 30 years ago
